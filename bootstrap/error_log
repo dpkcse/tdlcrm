@@ -1,0 +1,4 @@
+[12-Mar-2026 04:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tourgmpn/crm.tourdelisboa.com/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/bootstrap/app.php on line 14

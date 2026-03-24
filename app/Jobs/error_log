@@ -1,0 +1,1 @@
+[12-Mar-2026 06:44:59 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Bus\Dispatchable" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Jobs/AssignParcelDriverJob.php on line 17

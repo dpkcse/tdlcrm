@@ -1,0 +1,4 @@
+[12-Mar-2026 07:40:30 UTC] PHP Warning:  Undefined variable $user in /home/tourgmpn/crm.tourdelisboa.com/resources/views/users/profile.blade.php on line 40
+[12-Mar-2026 07:40:30 UTC] PHP Warning:  Attempt to read property "name" on null in /home/tourgmpn/crm.tourdelisboa.com/resources/views/users/profile.blade.php on line 40
+[12-Mar-2026 07:40:30 UTC] PHP Warning:  Undefined variable $user in /home/tourgmpn/crm.tourdelisboa.com/resources/views/users/profile.blade.php on line 76
+[12-Mar-2026 07:40:30 UTC] PHP Warning:  Attempt to read property "email" on null in /home/tourgmpn/crm.tourdelisboa.com/resources/views/users/profile.blade.php on line 76

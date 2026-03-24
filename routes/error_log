@@ -1,0 +1,16 @@
+[12-Mar-2026 03:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/tourgmpn/crm.tourdelisboa.com/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/routes/web.php on line 16
+[12-Mar-2026 03:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tourgmpn/crm.tourdelisboa.com/routes/api.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/routes/api.php on line 78
+[12-Mar-2026 04:04:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/tourgmpn/crm.tourdelisboa.com/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/routes/console.php on line 17
+[12-Mar-2026 04:28:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/tourgmpn/crm.tourdelisboa.com/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/routes/channels.php on line 16

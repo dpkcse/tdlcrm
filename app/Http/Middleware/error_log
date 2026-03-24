@@ -1,0 +1,4 @@
+[12-Mar-2026 08:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7

@@ -1,0 +1,4 @@
+[12-Mar-2026 07:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/tourgmpn/crm.tourdelisboa.com/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/tests/TestCase.php on line 7

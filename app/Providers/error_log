@@ -1,0 +1,24 @@
+[12-Mar-2026 04:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/AuthServiceProvider.php on line 8
+[12-Mar-2026 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/BroadcastServiceProvider.php on line 8
+[12-Mar-2026 04:53:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/HelpServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/HelpServiceProvider.php on line 8
+[12-Mar-2026 06:57:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/RouteServiceProvider.php on line 11
+[12-Mar-2026 06:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/EventServiceProvider.php on line 10
+[12-Mar-2026 11:05:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/AppServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/app/Providers/AppServiceProvider.php on line 13

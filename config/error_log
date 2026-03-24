@@ -1,0 +1,60 @@
+[12-Mar-2026 03:58:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/mail.php on line 16
+[12-Mar-2026 03:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/cache.php on line 18
+[12-Mar-2026 03:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/queue.php on line 16
+[12-Mar-2026 03:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOffice\PhpSpreadsheet\Reader\Csv" not found in /home/tourgmpn/crm.tourdelisboa.com/config/excel.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/excel.php on line 131
+[12-Mar-2026 04:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/hashing.php on line 32
+[12-Mar-2026 04:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/session.php on line 21
+[12-Mar-2026 04:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/sanctum.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/sanctum.php on line 16
+[12-Mar-2026 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/logging.php on line 20
+[12-Mar-2026 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/websockets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/websockets.php on line 11
+[12-Mar-2026 04:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/database.php on line 18
+[12-Mar-2026 04:27:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/app.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/app.php on line 31
+[12-Mar-2026 04:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/services.php on line 18
+[12-Mar-2026 04:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/broadcasting.php on line 18
+[12-Mar-2026 04:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tourgmpn/crm.tourdelisboa.com/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/filesystems.php on line 16
+[12-Mar-2026 04:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tourgmpn/crm.tourdelisboa.com/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/config/view.php on line 17

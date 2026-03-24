@@ -1,0 +1,1 @@
+[12-Mar-2026 04:53:25 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/tourgmpn/crm.tourdelisboa.com/app/Events/CustomerRidesUpdatedEvent.php on line 13

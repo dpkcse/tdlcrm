@@ -1,0 +1,4 @@
+[12-Mar-2026 05:32:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app() in /home/tourgmpn/crm.tourdelisboa.com/resources/views/layouts/app.blade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/resources/views/layouts/app.blade.php on line 3

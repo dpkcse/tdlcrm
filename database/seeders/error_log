@@ -1,0 +1,4 @@
+[12-Mar-2026 05:33:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/tourgmpn/crm.tourdelisboa.com/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tourgmpn/crm.tourdelisboa.com/database/seeders/DatabaseSeeder.php on line 7

@@ -1,0 +1,6 @@
+[12-Mar-2026 08:51:24 UTC] PHP Warning:  Undefined variable $ride in /home/tourgmpn/crm.tourdelisboa.com/resources/views/parcel_order/index.blade.php on line 219
+[12-Mar-2026 08:51:24 UTC] PHP Warning:  Attempt to read property "amount" on null in /home/tourgmpn/crm.tourdelisboa.com/resources/views/parcel_order/index.blade.php on line 219
+[12-Mar-2026 08:51:24 UTC] PHP Warning:  Undefined variable $ride in /home/tourgmpn/crm.tourdelisboa.com/resources/views/parcel_order/index.blade.php on line 219
+[12-Mar-2026 08:51:24 UTC] PHP Warning:  Attempt to read property "discount" on null in /home/tourgmpn/crm.tourdelisboa.com/resources/views/parcel_order/index.blade.php on line 219
+[12-Mar-2026 08:51:24 UTC] PHP Warning:  Undefined variable $ride in /home/tourgmpn/crm.tourdelisboa.com/resources/views/parcel_order/index.blade.php on line 220
+[12-Mar-2026 08:51:24 UTC] PHP Warning:  Attempt to read property "tax" on null in /home/tourgmpn/crm.tourdelisboa.com/resources/views/parcel_order/index.blade.php on line 220

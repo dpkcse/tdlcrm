@@ -1,0 +1,1 @@
+[12-Mar-2026 04:51:41 UTC] PHP Warning:  Undefined variable $lat_long in /home/tourgmpn/crm.tourdelisboa.com/resources/views/zone/create.blade.php on line 727
